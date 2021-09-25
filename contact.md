@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "PAGE TITLE"
-permalink: /URL-PATH/
+title: "Contato"
+permalink: /contato/
 ---
 voce pode entrar em contato
 pelo telefone, zap ou email
