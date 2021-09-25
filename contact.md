@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contato"
-permalink: /contato/
+permalink: /contato/contato
 ---
 voce pode entrar em contato
 pelo telefone, zap ou email
