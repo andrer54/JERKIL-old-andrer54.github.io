@@ -1,7 +1,18 @@
 ---
 title: "Bem vindo ao meu site"
 ---
-<div style="display: inline_block">
+
+<br>
+
+
+## Olá Mundo! Eu sou André Costa =)
+Seja bem vindo ao meu site! <br>
+Sou estudante de Análise e Desenvolvimento de Sistemas, me formo em 2022 <br> 
+e busco primeiro emprego como desenvolvedor.
+
+
+<br>
+  <div style="display: inline_block">
   
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,24 +24,9 @@ title: "Bem vindo ao meu site"
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  
 </div>
 <br>
-<div style="display: inline_block">
-  
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrer54&layout=compact&langs_count=7&theme=light"/>
-  <p>
-## Olá Mundo! Eu sou André Costa =)
-Seja bem vindo ao meu site! <br>
-Sou estudante de Análise e Desenvolvimento de Sistemas, me formo em 2022 <br> 
-e busco primeiro emprego como desenvolvedor.
-  </p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrer54&layout=compact&langs_count=7&theme=light"/>
-<br>
-<br>
 <div>
- <div>
   <a href="https://github.com/andrer54">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrer54&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrer54&layout=compact&langs_count=7&theme=light"/>
