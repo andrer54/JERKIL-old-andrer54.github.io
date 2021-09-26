@@ -19,7 +19,7 @@ title: "Bem vindo ao meu site"
     <img align="center" alt="angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   </div>
 </div>
-
+<br>
 ## Olá Mundo! Eu sou André Costa =)
 Seja bem vindo ao meu site! <br>
 Sou estudante de Análise e Desenvolvimento de Sistemas, me formo em 2022 <br> 
