@@ -3,15 +3,9 @@ title: "Bem vindo ao meu site"
 ---
 
 <br>
-
-
-## Olá Mundo! Eu sou André Costa =)
-Seja bem vindo ao meu site! <br>
-Sou estudante de Análise e Desenvolvimento de Sistemas, me formo em 2022 <br> 
-e busco primeiro emprego como desenvolvedor.
-
-
-<br>
+<div>
+  <a href="https://github.com/andrer54">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrer54&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <div style="display: inline_block">
   
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -25,13 +19,22 @@ e busco primeiro emprego como desenvolvedor.
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
 </div>
+    </div>
+
+## Olá Mundo! Eu sou André Costa =)
+Seja bem vindo ao meu site! <br>
+Sou estudante de Análise e Desenvolvimento de Sistemas, me formo em 2022 <br> 
+e busco primeiro emprego como desenvolvedor.
+
+
 <br>
+
+
 <div>
   <a href="https://github.com/andrer54">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrer54&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrer54&layout=compact&langs_count=7&theme=light"/>
 </div>
-
+<br>
   
 <div> 
  
