@@ -1,5 +1,5 @@
 ---
-title: "Bem vindo ao meu site"
+title: "Home"
 ---
 <div>
   <a href="https://github.com/andrer54">
