@@ -32,8 +32,8 @@ e busco primeiro emprego como desenvolvedor.
   <a href="https://www.youtube.com/channel/UCxrFH8t104fCs-Az-1YuSgQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
- <!-- 
+ 
   ![Snake animation](https://github.com/andrer54/andrer54/blob/output/github-contribution-grid-snake.svg)
- -->
+
 </div>
 
