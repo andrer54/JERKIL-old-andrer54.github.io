@@ -3,7 +3,7 @@ layout: page
 title: "Curriculo"
 permalink: /contato/curriculo
 ---
-
+<a href="https://github.com/andrer54/andrer54.github.io/raw/main/cv_fullstack_2021.pdf">download curriculo em pdf</a>
 # André Rodrigues Costa
 Desenvolvedor Jr.  \
 Rio de Janeiro – RJ  \
@@ -68,4 +68,4 @@ Também trabalhei fixo em algumas empresas como:
 
 Atividades: Atendimento presencial e remoto ao usuário com problemas de informática, configurações do windows, Office, rede, aplicativos empresariais como: Lótus Notes e SAP. Compartilhamento de dados e dispositivos. Migração de aplicativos legado. Manutenção e instalação de computadores e servidores.
 
-<a href="cv_fullstack_2021.pdf">download pdf</a>
+
