@@ -2,6 +2,14 @@
 title: "Home"
 ---
 
+<br>
+
+### Olá, me chamo André.
+### Eu sou um dev junior.
+### Seja bem vindo ao meu site!
+
+<br>
+
 Estou cursando Análise e Desenvolvimento de Sistemas, me formo em 2022   
 e busco o primeiro emprego como desenvolvedor.
 
