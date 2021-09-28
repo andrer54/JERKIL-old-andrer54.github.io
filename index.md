@@ -4,14 +4,14 @@ title: "Home"
 
 <br>
 
-  ## Olá, me chamo André.
-  ## Eu sou um dev junior.
-  ## Seja bem vindo ao meu site!
+**Olá, me chamo André.  
+    Eu sou um dev junior.  
+    Seja bem vindo ao meu site!**
 
 <br>
 
-Estou cursando Análise e Desenvolvimento de Sistemas, me formo em 2022   
-e busco o primeiro emprego como desenvolvedor.
+Busco o primeiro emprego como desenvolvedor.  
+Estou cursando **Análise e Desenvolvimento de Sistemas**, me formo em 2022   
 
 <br>
 
@@ -25,7 +25,7 @@ e busco o primeiro emprego como desenvolvedor.
 <br>
 
 Trabalhei com suporte técnico por bastante tempo  
-porem sempre quis ser programador  
+porem **sempre quis ser programador**  
 por isso tem um tempo que venho me dedicando,  
 estudando programação...    
 e chegou o momento de entrar de vez na área!  
