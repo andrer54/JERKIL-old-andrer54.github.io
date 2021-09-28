@@ -4,9 +4,9 @@ title: "Home"
 
 <br>
 
-### Olá, me chamo André.
-### Eu sou um dev junior.
-### Seja bem vindo ao meu site!
+  ## Olá, me chamo André.
+  ## Eu sou um dev junior.
+  ## Seja bem vindo ao meu site!
 
 <br>
 
