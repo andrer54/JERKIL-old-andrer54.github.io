@@ -10,7 +10,7 @@ title: "Home"
 
 <br>
 
-Busco o primeiro emprego como desenvolvedor.  
+Busco a primeira oportunidade como desenvolvedor.  
 Estou cursando **Análise e Desenvolvimento de Sistemas**, me formo em 2022   
 
 <br>
