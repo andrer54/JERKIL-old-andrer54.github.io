@@ -15,5 +15,6 @@ permalink: /contato/projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrer54&repo=TDD)](https://github.com/andrer54/TDD)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrer54&repo=eventos-app)](https://github.com/andrer54/eventos-app) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrer54&repo=lista_de_computadores)](https://github.com/andrer54/lista_de_computadores)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrer54&repo=appfinancas)](https://github.com/andrer54/appfinancas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrer54&repo=crud-api)](https://github.com/andrer54/crud-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrer54&repo=OLD_andrer54.github.io)](https://github.com/andrer54/OLD_andrer54.github.io)
