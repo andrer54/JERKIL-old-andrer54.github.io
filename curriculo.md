@@ -41,6 +41,7 @@ GitHub: https://github.com/andrer54
     • JAVA avançado – Fundação Bradesco – 2018
     • C# Avançado – Fundação Bradesco – 2018
     • C# ASP.Net MVC na prática
+    * Estrutura de dados (Estácio) - 2021
     • Princípios de Desenvolvimento Ágil de Software – Instituto Tecnológico da Aeronáutica (Em curso)
     • Versionamento de código (GIT) – RBTech
 
