@@ -243,4 +243,18 @@ Text/html
 
 
 para não ficar muito extenso, vou fazer o modulo 2 falando de webservivers, arquiteturas, sopa e rest.
+
+
+
+------------
+
+
+REFERÊNCIAS
+JACOBSON, D.; BRAIL, G.; WOODS, D. APIs: A Strategy Guide. California: O’Reilly, 2012.
+
+KALIN, M. Java Web Services: Up and Running. 2nd. ed. California: O’Reilly, 2013.
+
+PRESSMAN, R.; MAXIM, B. Engenharia de Software: Uma abordagem profissional. Porto Alegre: McGraw-Hill – Artmed, 2016.
+
+W3C. W3C Working Group Note 11. In: W3C ‒ Web Services Architecture. Publicado em meio eletrônico em: fev. 2014.
       
