@@ -21,7 +21,8 @@ Veja se está configurado:
 
     git config --list    
     
-    ---------------------------------
+
+---------------------------------
     
 ## trabalhando com o git
 
