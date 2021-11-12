@@ -1,6 +1,4 @@
-# Códigos de status de respostas HTTP  
-Os códigos de status das respostas HTTP indicam se uma requisição HTTP foi corretamente concluída.  
-
+# Resumo Códigos de status de respostas HTTP  
 
 ### As respostas são agrupadas em cinco classes:  
 Respostas de informação (100-199),  
