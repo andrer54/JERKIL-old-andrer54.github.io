@@ -1,14 +1,10 @@
-<img src="https://pngimg.com/uploads/github/github_PNG15.png" >
+<img align="center" width="440" src="https://pngimg.com/uploads/github/github_PNG15.png" >
 
+### ESSE MATERIAL VAI AJUDAR A INSTALAR GIT E PUBLICAR NO GITHUB UM PROJETO;  
 
-não perde tempo, abre o terminal na pasta do teu projeto e já cria teu repositório local com o comando  
+Para checar se o Git já está instalado:
 
-     git init
-      
-Funcio-nou não?? Vê se tem git instalado com o comando: 
-
-
-    git --version 
+    git version
     
 Amigo, Se não, ja instala via terminal 
   
@@ -21,44 +17,48 @@ No terminal:
     git config --global user.name "seu-nome"
     git config --global user.email "seu-email"
 
-Para checar se o Git já está instalado:
-
-    git version
-
 Veja se está configurado:
 
-    git config --list
+    git config --list    
+    
+    ---------------------------------
+    
+## trabalhando com o git
+
+não perde tempo, abre o terminal na pasta do teu projeto e já cria teu repositório local com o comando  
+
+     git init
+      
+ Isso inicializa um repositório git no seu projeto  
  
--------------------------------------------------------
-[em construção]    
 Agora vai no teu github, cria um repositorio lá
 No seu perfil do GitHub clique em “new repo” de um nome (exemplo: novo-repo), escolha a opção “público”, e clique em “Criar repositório”.
 
-Agora volte para o seu querido terminal e digite,( caso aquele primeiro comando tenha falhado)
-
-     git init
-Isso inicializa um repositório git no seu projeto
 
 Agora para treino, vamos adicionar um arquivo pelo terminal com o comando: 
 
      touch README.MD
 
 ----------
+
 ## agora voltemos ao git
 DIGITE: 
      
      git status
+
 Isso irá listar todos os arquivos no seu diretório de trabalho.
 
 
 Então digite:
 
      git add .
+
 Isso adiciona todos os seus arquivos e alterações numa área temporária.
 
 Então digite:
 
      git commit -m "primeiro commit"
+
 Isso commita todos os seus arquivos, adicionando a mensagem “primeiro commit”
 
 aGORA CHEGOU A HORA DE ENVIAR TUDO PARA O GITHUB, MAS ANTES VAMOS INFORMAR ONDE FICA O REPOSITÓRIO ONLINE, VEJA:
@@ -70,6 +70,7 @@ Isso cria um vinculo remoto, ou conexão chamado “origin” apontando para o s
 agora cheg9ou o momento mágico, Então digite:
 
      git push -u origin main
+
 Isso envia seus commits para sua branch “main” no GitHub
 
 
