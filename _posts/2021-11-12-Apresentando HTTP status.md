@@ -1,73 +1,80 @@
-Índice
-1	Lista de códigos de status HTTP
-2	1xx Informativa
-2.1	100 Continuar
-2.2	101 Mudando protocolos
-2.3	102 Processamento (WebDAV) (RFC 2518)
-2.4	122 Pedido-URI muito longo
-3	2xx Sucesso
-3.1	201 Criado
-3.2	202 Aceito
-3.3	203 não-autorizado (desde HTTP/1.1)
-3.4	204 Nenhum conteúdo
-3.5	205 Reset
-3.6	206 Conteúdo parcial
-3.7	207-Status Multi (WebDAV) (RFC 4918)
-4	3xx Redirecionamento
-4.1	300 Múltipla escolha
-4.2	301 Movido
-4.3	302 Encontrado
-4.4	303 Consulte Outros
-4.5	304 Não modificado
-4.6	305 Use Proxy (desde HTTP/1.1)
-4.7	306 Proxy Switch
-4.8	307 Redirecionamento temporário (desde HTTP/1.1)
-4.9	308 Redirecionamento permanente (RFC 7538[2])
-5	4xx Erro de cliente
-5.1	400 Requisição inválida
-5.2	401 Não autorizado
-5.3	402 Pagamento necessário
-5.4	403 Proibido
-5.5	404 Não encontrado
-5.6	405 Método não permitido
-5.7	406 Não Aceitável
-5.8	407 Autenticação de proxy necessária
-5.9	408 Tempo de requisição esgotou (Timeout)
-5.10	409 Conflito geral
-5.11	410 Gone
-5.12	411 comprimento necessário
-5.13	412 Pré-condição falhou
-5.14	413 Entidade de solicitação muito grande
-5.15	414 Pedido-URI Too Long
-5.16	415 Tipo de mídia não suportado
-5.17	416 Solicitada de Faixa Não Satisfatória
-5.18	417 Falha na expectativa
-5.19	418 Eu sou um bule de chá
-5.20	422 Entidade improcessável (WebDAV) (RFC 4918)
-5.21	423 Fechado (WebDAV) (RFC 4918)
-5.22	424 Falha de Dependência (WebDAV) (RFC 4918)
-5.23	425 coleção não ordenada (RFC 3648)
-5.24	426 Upgrade Obrigatório (RFC 2817)
-5.25	429 pedidos em excesso
-5.26	450 bloqueados pelo Controle de Pais do Windows
-5.27	499 cliente fechou Pedido (utilizado em ERPs/VPSA)
-6	5xx outros erros
-6.1	500 Erro interno do servidor (Internal Server Error)
-6.2	501 Não implementado (Not implemented)
-6.3	502 Bad Gateway
-6.4	503 Serviço indisponível (Service Unavailable)
-6.5	504 Gateway Time-Out
-6.6	505 HTTP Version not supported
-7	Referências
-8	Ligações externas
-Lista de códigos de status HTTP
-A seguir, uma lista de códigos de resposta em HTTP (HyperText Transfer Protocol). Isso inclui os códigos padrões de internet da IETF, outras especificações e alguns ​​códigos adicionais usados. O primeiro dígito do código de status, indica uma das cinco classes de resposta, o mínimo necessário para um cliente HTTP, é que ele reconheça essas cinco classes. Microsoft IIS pode usar sub-códigos decimais adicionais, específicos para fornecer mais informações, mas estes não estão listados aqui. As frases utilizadas são os exemplos padrão, mas qualquer alternativa humana legível pode ser fornecida. Salvo disposição em contrário, o código de status é parte do padrão HTTP/1.1. (Joel, 2011)
+Lista de códigos de status HTTP  
+	1xx Informativa  
+	100 Continuar  
+	101 Mudando protocolos  
+102 Processamento (WebDAV) (RFC 2518)  
+122 Pedido-URI muito longo  
+
+2xx Sucesso  
+201 Criado  
+202 Aceito  
+203 não-autorizado (desde HTTP/1.1)
+204 Nenhum conteúdo
+	205 Reset  
+	206 Conteúdo parcial  
+	207-Status Multi (WebDAV) (RFC 4918)  
+  
+3xx Redirecionamento  
+	300 Múltipla escolha  
+	301 Movido  
+	302 Encontrado  
+	303 Consulte Outros  
+	304 Não modificado  
+	305 Use Proxy (desde HTTP/1.1)  
+	306 Proxy Switch  
+	307 Redirecionamento temporário (desde HTTP/1.1)  
+	308 Redirecionamento permanente (RFC 7538[2])  
+  
+4xx Erro de cliente  
+	400 Requisição inválida  
+	401 Não autorizado  
+	402 Pagamento necessário  
+	403 Proibido  
+	404 Não encont rado  
+	405 Método não permitido  
+	406 Não Aceitável  
+	407 Autenticação de proxy necessária  
+	408 Tempo de requisição esgotou (Timeout)  
+	409 Conflito geral  
+	410 Gone  
+	411 comprimento necessário  
+	412 Pré-condição falhou
+	413 Entidade de solicitação muito grande  
+	414 Pedido-URI Too Long  
+	415 Tipo de mídia não suportado  
+	416 Solicitada de Faixa Não Satisfatória
+	417 Falha na expectativa  
+	418 Eu sou um bule de chá  
+	422 Entidade improcessável (WebDAV) (RFC 4918)  
+	423 Fechado (WebDAV) (RFC 4918)  
+	424 Falha de Dependência (WebDAV)  (RFC 4918)  
+	425 coleção não ordenada (RFC 3648)
+	426 Upgrade Obrigatório (RFC 2817)
+	429 pedidos em excesso
+	450 bloqueados pelo Controle de Pais do Windows
+	499 cliente fechou Pedido (utilizado em ERPs/VPSA)
+  
+5xx outros erros  
+	500 Erro interno do servidor (Internal Server Error)  
+	501 Não implementado (Not implemented)  
+	502 Bad Gateway  
+	503 Serviço indisponível (Service Unavailable)  
+	504 Gateway Time-Out  
+	505 HTTP Version not supported  
+   
+   
+   
+* Explicação detalhada
 
 1xx Informativa
 Indica que a requisição foi recebida e entendida. Essa resposta é despachada provisoriamente, enquanto o processamento da requisição continua. Serve para alertar ao cliente, que espere pela resposta final. A mensagem constitui-se apenas do Status-Line e cabeçalhos opcionais, e é encerrado por uma linha vazia, dado que a versão HTTP/1.0, não definiu nenhum código de status 1xx, os servidores não devem enviar uma resposta 1xx para um cliente HTTP/1.0, exceto sob condições experimentais.
 
+---------------------
+
 100 Continuar
 Isso significa que o servidor recebeu os cabeçalhos da solicitação, e que o cliente deve proceder para enviar o corpo do pedido (no caso de haver um pedido, um corpo deve ser enviado, por exemplo, um POST pedido). Se o corpo do pedido é grande, enviando-o para um servidor, se o pedido já foi rejeitado, com base em cabeçalhos inadequados é ineficiente. Para ter um cheque do servidor se o pedido pode ser aceito com base no pedido de cabeçalhos sozinho, o cliente deve enviar: Esperar 100-continue, como um cabeçalho no seu pedido inicial e verificar se a 100 Continuar, código de status é recebido em resposta antes de permanente (ou receber 417 Falha na expectativa e não continuar).
+
+--------------------
 
 101 Mudando protocolos
 Isso significa que o solicitante pediu ao servidor para mudar os protocolos, e o servidor está reconhecendo que irá fazê-lo.
@@ -75,8 +82,14 @@ Isso significa que o solicitante pediu ao servidor para mudar os protocolos, e o
 102 Processamento (WebDAV) (RFC 2518)
 Como uma solicitação WebDAV pode conter muitos sub-pedidos que envolvam operações de arquivo, pode demorar muito tempo para concluir o pedido. Este código indica que o servidor recebeu e está processando o pedido, mas ainda nenhuma resposta está disponível. Isso impede que o cliente ultrapasse o tempo limite e assuma que a requisição tenha sido perdida.
 
+--------------------
+
 122 Pedido-URI muito longo
 Este é um padrão IE7. Somente código não significa que o URI é mais do que um máximo de 2083 caracteres. (Ver código 414).
+
+
+----------------
+
 
 2xx Sucesso
 Esta classe de códigos de status indica a ação solicitada pelo cliente foi recebida, compreendida, aceita e processada com êxito.
@@ -107,6 +120,8 @@ O servidor está entregando apenas parte do recurso devido a um cabeçalho inter
 207-Status Multi (WebDAV) (RFC 4918)
 O corpo da mensagem que se segue é um XML da mensagem e pode conter um número de códigos de resposta individual, dependendo de quantas sub-pedidos foram feitos.
 
+----------------
+
 3xx Redirecionamento
 O cliente deve tomar medidas adicionais para completar o pedido. Essa classe de código de status indica que a ação ainda precisa ser levado pelo agente do usuário, a fim de atender à solicitação. A ação necessária pode ser realizada pelo agente, sem interação com o usuário, se e somente se o método utilizado no segundo pedido é GET ou HEAD. Um agente do usuário não deve redirecionar automaticamente uma solicitação de mais de cinco vezes, uma vez que tais redirecionamentos geralmente indicam um loop infinito.
 
@@ -136,6 +151,11 @@ Nesta ocasião, o pedido deve ser repetido com outro URI, mas futuras solicitaç
 
 308 Redirecionamento permanente (RFC 7538[2])
 Indica que o recurso foi movido para um novo URI permanente e todas as requisições futuras devem usar um dos URIs retornados. Os códigos 307 e 308 são similares ao comportamento dos códigos 302 e 301, mas não permitem que o método HTTP seja modificado.
+
+
+----------------------
+
+
 
 4xx Erro de cliente
 A classe 4xx de código de status é destinado para os casos em que o cliente parece ter cometido um erro. Exceto quando estiver respondendo a uma solicitação HEAD, o servidor deve incluir uma entidade que contém uma explicação sobre a situação de erro, e se é uma condição temporária ou permanente. Esses códigos de status são aplicáveis a qualquer método de solicitação. Os agentes do usuário devem exibir qualquer entidade incluída para o usuário. Estes são tipicamente os códigos de erro mais comuns encontrados durante online.
@@ -221,6 +241,14 @@ Uma extensão de Microsoft. Este erro é dado quando Parental Controls do Window
 
 499 cliente fechou Pedido (utilizado em ERPs/VPSA)
 Um Nginx extensão do servidor HTTP. Este código é introduzido para registrar o caso quando a conexão é fechada pelo cliente ao servidor HTTP é o processamento de seu pedido, fazendo com que servidor não consiga enviar o cabeçalho HTTP de volta.
+
+
+
+
+-------------------
+
+
+
 
 5xx outros erros
 500 Erro interno do servidor (Internal Server Error)
