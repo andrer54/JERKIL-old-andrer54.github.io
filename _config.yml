@@ -15,4 +15,4 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 
 #theme: minima
 #remote_theme : "manid2/lone-wolf-theme"
-theme: jekyll-theme-hydure
+remote_theme: zivong/jekyll-theme-hydure
