@@ -5,19 +5,21 @@ rodar comandos npm, yarn, criar pastas, rodar executaveis, subir webservers, etc
   
   
 ## Que tem uma boa base sobre:  
-> logica de programação.
-> Programação orientada a objeto
-> programação orientada a stackoverflow!!!
-> funcionamento da internet
-> Fluxo de trabalho com GIT
-> Banco de dados SQL e noSQL
+* logica de programação.
+* Programação orientada a objeto
+* programação orientada a stackoverflow!!!
+* funcionamento da internet
+* Fluxo de trabalho com GIT
+* Banco de dados SQL e noSQL
 
 ## Que tem conhecimentos sobre:
-> Estrutura de dados
-> programação funcional
-> ORMs(Hibernate, Entity)
+* Estrutura de dados
+* programação funcional
+* ORMs(Hibernate, Entity)  
 
+----------------------
 
+  
 Que pode criar APIs conectadas a bancos de dados.  
 Pode consumir APIs de terceiros.  
 ..que pode dar manutenção em sistema legado.  
