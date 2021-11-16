@@ -1,10 +1,10 @@
-Eu estou desejando(e precisando) que alguém(uma empresa)  
-acredite no meu trabalho como programador.  
-Trabalho que venho dedicando esforços ha 2 anos, nos momentos que posso,
-atravez da graduação, prática, cursos, bootcamps e conteúdos pela internet.
+> Eu estou desejando(e precisando) que alguém(uma empresa)  
+> acredite no meu trabalho como programador.  
+> Trabalho que venho dedicando esforços ha 2 anos, nos momentos que posso,
+> atravez da graduação, prática, cursos, bootcamps e conteúdos pela internet.
 
 O fato é que como desenvolvedor
-Estou querendo me superar a cada dia nessa posição, e assim oferecer um trabalho de qualidade para o meu empregador.
+Estou querendo me superar a cada dia, ter uma carreira consolidada e oferecer trabalhos de qualidade para o meus empregadores.
   
   
 Sou um profissional que utiliza linux há pelo menos 2 anos,  
@@ -46,7 +46,7 @@ e uma versão mobile com react-native
 >> ..penso: sou uma droga de programador!!!!!!  
 >  
 > mas em um qualquer momento vem uma ideia da solução... e faço a pesquisa certa.... e CABUM!!!! funcionou!!!!  
->> ..Penso "eu sou SINISTRO em programação"  
+>> ..Penso "eu sou muuito SINISTRO em programação"  
 
   
 ------------------------
