@@ -10,7 +10,7 @@ Erros do servidor (500-599).
 
 ------------
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--LV0wKGNx--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/warbvz1or1u6t30t5sy3.jpeg" >
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--LV0wKGNx--/c_imagga_scale,f_auto,fl_progressive,h_250,q_auto,w_500/https://dev-to-uploads.s3.amazonaws.com/i/warbvz1or1u6t30t5sy3.jpeg" >
 
 
 ------------
