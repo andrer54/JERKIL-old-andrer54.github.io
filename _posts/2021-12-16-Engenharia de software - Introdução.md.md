@@ -1,6 +1,6 @@
 <div>
 <img align="center" width="300" src="https://www.rotamaxima.com.br/wp-content/uploads/2018/11/principal.png" />
-- Reconhecer os conceitos básicos relacionados com a Engenharia de software.  
+ Reconhecer os conceitos básicos relacionados com a Engenharia de software.  
 </div>
   
    
