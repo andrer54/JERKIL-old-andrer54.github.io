@@ -1,12 +1,16 @@
 ### Resumo Códigos de status de respostas HTTP  
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--LV0wKGNx--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/warbvz1or1u6t30t5sy3.jpeg" >
+
 
 #### As respostas são agrupadas em cinco classes:  
 Respostas de informação (100-199),  
 Respostas de sucesso (200-299),  
 Redirecionamentos (300-399)  
 Erros do cliente (400-499)  
-Erros do servidor (500-599).  
+Erros do servidor (500-599).   
+
+------------
+
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--LV0wKGNx--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/warbvz1or1u6t30t5sy3.jpeg" >
 
 
 ------------
