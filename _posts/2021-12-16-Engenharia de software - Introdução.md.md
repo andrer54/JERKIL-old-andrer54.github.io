@@ -1,6 +1,11 @@
-### Introdução, Reconhecer os conceitos básicos relacionados com o desenvolvimento de software
-
-> A importância do software é facilmente perceptível em função dos inúmeros serviços digitais disponíveis na nossa Sociedade. O software também está presente em sistemas de controle de veículos, aviões, refinarias entre outros.
+<div>
+<img align="center" width="300" src="https://www.rotamaxima.com.br/wp-content/uploads/2018/11/principal.png" />
+- Reconhecer os conceitos básicos relacionados com a Engenharia de software.  
+</div>
+  
+   
+> A importância do software é facilmente perceptível em função dos inúmeros serviços digitais disponíveis na nossa Sociedade. 
+> O software também está presente em sistemas de controle de veículos, aviões, refinarias entre outros.
 
 O “produto” software tem que ser projetado aplicando-se as melhores práticas da engenharia, pois quais seriam as consequências de um defeito de software em uma aeronave com 500 pessoas ou na falha de um sistema de controle de tráfego aéreo? Realmente, o software necessita das melhores práticas da engenharia no seu projeto.
 
@@ -38,16 +43,13 @@ SOFTWARE CONSISTE EM:
 
 Implicitamente, o software relaciona-se com o hardware. Essa relação gerou a denominada “Crise do Software”, sintetizada pela afirmativa a seguir de Edsger.
 
-A MAIOR CAUSA DA CRISE DO SOFTWARE É QUE AS MÁQUINAS SE TORNARAM VÁRIAS ORDENS DE MAGNITUDE MAIS POTENTES! EM TERMOS DIRETOS, ENQUANTO NÃO HAVIA MÁQUINAS, PROGRAMAR NÃO ERA UM PROBLEMA; QUANDO TIVEMOS COMPUTADORES FRACOS, ISSO SE TORNOU UM PROBLEMA PEQUENO; E AGORA QUE TEMOS COMPUTADORES GIGANTESCOS, PROGRAMAR TORNOU-SE UM PROBLEMA GIGANTESCO.
-(DIJKSTRA, 1972).
 
 É importante destacar que o desenvolvimento tecnológico do hardware nos últimos anos permitiu o desenvolvimento de softwares cada vez mais complexos, tendo um forte impacto na indústria de software. Como exemplo, podemos apresentar a substituição do paradigma estruturado pelo paradigma orientado a objetos, baseado na programação orientada a objetos que permite o reuso intensivo de especificação, bem como uma melhor manutenibilidade e, como consequência, o desenvolvimento de softwares mais complexos.
 
 Vamos enfatizar uma das principais finalidades do software: a geração de informação. A figura 1 ilustra de forma implícita os principais componentes tecnológicos de um Sistema de Informação, i.e., hardware, software, sistema gerenciador de banco de dados, redes de comunicação e serviços, sendo os referidos componentes interdependentes. O ambiente empresarial está representado pela respectiva pirâmide funcional, cabendo ao componente software, o importante papel de agregar valor aos dados quando da geração de informações aos diferentes níveis de gestão – operacional, gerencial e estratégico, pois essa pode ser utilizada em um processo de tomada de decisão ou no controle de funções empresariais, tais como financeiro, recursos humanos e outras.
 
 
-Fonte: O autor.
-Figura 1 – Sistema de Informação x Software.
+### Sistema de Informação x Software.
 Um segundo exemplo, vamos considerar a complexidade do desenvolvimento de um software embarcado em uma aeronave com 500 pessoas e que realiza o seu controle total, em que um defeito pode ter um impacto altamente negativo.
 
 Vamos imaginar o que seria do piloto sem as informações do voo no painel de controle.
@@ -58,34 +60,33 @@ Você consegue imaginar quais os desafios atuais de um engenheiro de software?
 
 Destacamos que os desafios incluem sete grandes categorias:
 
-SOFTWARE DE SISTEMA
+### SOFTWARE DE SISTEMA
 Camadas de software que atendem a outros softwares, tais como, sistemas operacionais, drivers e outros.
 
-SOFTWARE DE APLICAÇÃO
+### SOFTWARE DE APLICAÇÃO
 Inclui software com escopo específico, tais como, sistemas de gestão empresarial (ERP).
 
-SOFTWARE DE ENGENHARIA/CIENTÍFICO
+### SOFTWARE DE ENGENHARIA/CIENTÍFICO
 Inclui software aplicado às áreas de engenharia e científica, tal como, software para cálculo estrutural na área de engenharia civil ou processamento de imagem.
 
-SOFTWARE EMBARCADO
+### SOFTWARE EMBARCADO
 Instalado em produtos com funções específicas, tal como, o controle de um veículo com informações disponíveis no painel digital.
 
-SOFTWARE PARA LINHA DE PRODUTOS
+### SOFTWARE PARA LINHA DE PRODUTOS
 Projetado com determinado conjunto de funcionalidades e utilizado por diferentes clientes, por exemplo, sistema emissor de nota fiscal.
 
-APLICAÇÕES WEB/APLICATIVOS MÓVEIS
+## APLICAÇÕES WEB/APLICATIVOS MÓVEIS
 Software específico para dispositivo móvel.
 
-SOFTWARE DE INTELIGÊNCIA ARTIFICIAL
+## SOFTWARE DE INTELIGÊNCIA ARTIFICIAL
 Utilizam técnicas de inteligência artificial, tais como, sistema especialistas, redes neurais, aprendizado de máquinas e outros.
 
-ENGENHARIA DE SOFTWARE
+## ENGENHARIA DE SOFTWARE
 Vimos nos exemplos do software embarcado em uma aeronave ou controlando o tráfego aéreo uma característica comum: a complexidade. A melhor tratativa para a complexidade é a aplicação de metodologia que permita a decomposição do problema em problemas menores de forma sistemática, cabendo à engenharia essa sistematização.
 
 Uma premissa básica é que a engenharia permite a solução de problemas e, quanto mais complexo um produto a ser gerado, mais a engenharia faz-se necessária.
 
 
-Fonte: KorArkaR/Shutterstock
 Vamos ver no caso da construção de uma simples casa, talvez um engenheiro resolva o problema; e no caso de um edifício inteligente com vários andares? Neste caso, o problema tornou-se multidisciplinar, ou seja, serão necessários vários profissionais de várias áreas, e.g., arquiteto, engenheiros civis, mecânicos, elétricos, de software etc. A construção do prédio torna-se inviável caso não haja uma tratativa sistemática por meio da aplicação das melhores práticas da engenharia.
 
 A mesma correlação pode ser aplicada quando o produto a ser gerado é o software. No caso do software, aplica-se a Engenharia de Software.
@@ -97,24 +98,23 @@ O desenvolvimento de software deve submeter-se aos mesmos princípios aplicados 
 A primeira referência ao termo “Engenharia de Software” foi em 1968, em uma conferência sobre o tema, sob responsabilidade do Comitê de Ciência da NATO (North Atlantic Treaty Organization). Nesse contexto, o Guide to the Software Engineering Body of Knowledge Version 3.0 (SWEBOK Guide V3.0) apresenta a seguinte definição para a Engenharia de Software:
 
 A APLICAÇÃO DE UMA ABORDAGEM SISTEMÁTICA, DISCIPLINADA E QUANTIFICÁVEL PARA O DESENVOLVIMENTO, OPERAÇÃO E MANUTENÇÃO DE SOFTWARE, QUE É A APLICAÇÃO DE ENGENHARIA AO SOFTWARE.
-TECNOLOGIA EM CAMADAS
+### TECNOLOGIA EM CAMADAS
 A Engenharia de Software é uma tecnologia em camadas, como ilustra a figura 2. Vejamos as descrições das referidas camadas:
 
-CAMADA DE QUALIDADE
+### CAMADA DE QUALIDADE
 Garante que os requisitos que atendem às expectativas do usuário serão cumpridos.
 
-CAMADA DE PROCESSO
+### CAMADA DE PROCESSO
 Determina as etapas de desenvolvimento do software.
 
-CAMADA DE MÉTODOS
+### CAMADA DE MÉTODOS
 Define, por exemplo, quais as técnicas de elicitação de requisitos, os artefatos gerados em função da técnica de modelagem adotada, tal como, modelo de casos de uso ou de classes.
 
-CAMADA DE FERRAMENTAS
+### CAMADA DE FERRAMENTAS
 Estimula a utilização de ferramentas “CASE” (Computer-Aided Software Engineering) no desenho dos diversos artefatos ou mesmo na geração automática de código, entre outras aplicações; a tecnologia CASE está disponível para uso em todas as etapas do processo de desenvolvimento de software.
-
-
-Fonte: O autor
-Figura 2 - Camadas da Engenharia de Software.
+  
+--------------------
+  
 Considerando um produto tangível para todos nós, você poderia imaginar que um dia construirá sua casa própria? Vamos imaginar que sim. O que você precisaria para levar em frente esta construção? Um processo?
 
 Certamente, pois terá que organizar as etapas da construção: fundação, estrutura, cobertura, alvenaria, instalações etc. Agora a construção da casa fica mais fácil.
@@ -132,11 +132,8 @@ Assim como em todas as engenharias, a Engenharia de Software possui uma diversid
 Fonte: por_suwat/Shutterstock
 Um requisito importante na seleção de um processo de software é a complexidade. Basicamente, quanto maior a complexidade de um sistema, mais formal deve ser o processo adotado. Importante: a qualidade é a camada base que sustenta a camada processo.
 
-Uma metodologia de processo genérica compreende cinco atividades (figura 3).
+## Uma metodologia de processo genérica compreende cinco atividades (figura 3).
 
-
-Fonte: O autor
-Figura 3 - Metodologia do Processo.
 COMUNICAÇÃO
 As primeiras atividades de um processo de software requerem uma comunicação intensiva com os usuários, buscando o entendimento do problema, a definição de objetivos para o projeto, bem como a identificação de requisitos.
 
@@ -160,15 +157,17 @@ Assista agora ao vídeo Metodologia do processo de desenvolvimento.
 
 As atividades básicas apresentadas são complementadas pelas denominadas “atividades de apoio”, que incluem:
 
-CONTROLE E ACOMPANHAMENTO DE PROJETO
-ADMINISTRAÇÃO DE RISCOS
-GARANTIA DA QUALIDADE DE SOFTWARE
-REVISÕES TÉCNICAS
-MEDIÇÃO
-GERENCIAMENTO DA CONFIGURAÇÃO DE SOFTWARE
-GERENCIAMENTO DA CAPACIDADE DE REUTILIZAÇÃO
-PREPARO E PRODUÇÃO DE ARTEFATOS DE SOFTWARE
-CONTROLE E ACOMPANHAMENTO DE PROJETO
+> CONTROLE E ACOMPANHAMENTO DE PROJETO
+> ADMINISTRAÇÃO DE RISCOS
+> GARANTIA DA QUALIDADE DE SOFTWARE
+> REVISÕES TÉCNICAS
+> MEDIÇÃO
+> GERENCIAMENTO DA CONFIGURAÇÃO DE SOFTWARE
+> GERENCIAMENTO DA CAPACIDADE DE REUTILIZAÇÃO
+> PREPARO E PRODUÇÃO DE ARTEFATOS DE SOFTWARE
+> CONTROLE E ACOMPANHAMENTO DE PROJETO
+  
+  
 Dentro do princípio de que “não se controla o que não se mede”, a etapa do Gerenciamento de Projeto Monitoramento e Controle permite verificar se a execução está de acordo com o planejado, pois, caso seja identificada alguma não conformidade, ações corretivas devem ser implementadas.
 
 ADMINISTRAÇÃO DE RISCOS
@@ -194,8 +193,8 @@ Um processo de software encadeia uma série de atividades, sendo que estas ativi
 
 Cabe ao engenheiro de software documentar cada atividade que será aplicada no processo de desenvolvimento de software em função da natureza do problema (complexidade), das características das pessoas que realizarão o trabalho e dos usuários envolvidos.
 
-RESUMINDO
-Neste módulo, podemos destacar a importância do software atualmente, bem como da complexidade no seu desenvolvimento. A aplicação da Engenharia de Software permite lidar com a referida complexidade, pois melhores práticas podem ser aplicadas de forma a gerar um produto “software” que atenda às necessidades para as quais foi projetado.
+## RESUMINDO
+Podemos destacar a importância do software atualmente, bem como da complexidade no seu desenvolvimento. A aplicação da Engenharia de Software permite lidar com a referida complexidade, pois melhores práticas podem ser aplicadas de forma a gerar um produto “software” que atenda às necessidades para as quais foi projetado.
 
 Destacamos que a Engenharia de Software é uma tecnologia em camadas, ou seja, com foco na qualidade, processo, métodos e ferramentas. Cabe enfatizar que a base da Engenharia de Software é a camada de processo, por isso foram descritas as principais atividades genéricas que devem compor um processo de software: comunicação, planejamento, modelagem, construção e entrega.
 
