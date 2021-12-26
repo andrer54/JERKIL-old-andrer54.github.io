@@ -1,24 +1,4 @@
 
-DESCRIÇÃO
-O processo de desenvolvimento de software e sua aplicação no Gerenciamento de Projeto.
-
-PROPÓSITO
-Compreender a importância do processo de desenvolvimento de software e do Gerenciamento de Projetos no contexto da Engenharia de Software.
-
-OBJETIVOS
-MÓDULO 1
-Reconhecer os conceitos básicos relacionados com o desenvolvimento de software
-
-MÓDULO 2
-Descrever as etapas essenciais de um processo de desenvolvimento de software
-
-MÓDULO 3
-Relacionar as etapas de um processo de desenvolvimento de software com as etapas de Gerenciamento de Projeto
-
-MÓDULO 4
-Descrever a importância do Gerenciamento de Risco no projeto de software
-
-INTRODUÇÃO
 Nos dias atuais, a importância do software é facilmente perceptível em função dos inúmeros serviços digitais disponíveis na nossa Sociedade da Informação. Em outros cenários, o software também está presente em sistemas de controle de veículos, aviões, refinarias entre outros.
 
 Podemos afirmar que o “produto” software tem que ser projetado aplicando-se as melhores práticas da engenharia, pois quais seriam as consequências de um defeito de software em uma aeronave com 500 pessoas ou na falha de um sistema de controle de tráfego aéreo? Realmente, o software necessita das melhores práticas da engenharia no seu projeto.
