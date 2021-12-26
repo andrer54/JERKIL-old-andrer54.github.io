@@ -1,6 +1,8 @@
-<img align="center" width="440" src="https://pngimg.com/uploads/github/github_PNG15.png" >
+### TUTORIAL PARA INSTALAR GIT E PUBLICAR NO GITHUB UM PROJETO;  
 
-### ESSE MATERIAL VAI AJUDAR A INSTALAR GIT E PUBLICAR NO GITHUB UM PROJETO;  
+<img align="center" width="300" src="https://pngimg.com/uploads/github/github_PNG15.png" >
+
+
 
 Para checar se o Git já está instalado:
 
