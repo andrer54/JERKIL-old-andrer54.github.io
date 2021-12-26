@@ -1,7 +1,8 @@
+### Introdução, Reconhecer os conceitos básicos relacionados com o desenvolvimento de software
 
-Nos dias atuais, a importância do software é facilmente perceptível em função dos inúmeros serviços digitais disponíveis na nossa Sociedade da Informação. Em outros cenários, o software também está presente em sistemas de controle de veículos, aviões, refinarias entre outros.
+> A importância do software é facilmente perceptível em função dos inúmeros serviços digitais disponíveis na nossa Sociedade. O software também está presente em sistemas de controle de veículos, aviões, refinarias entre outros.
 
-Podemos afirmar que o “produto” software tem que ser projetado aplicando-se as melhores práticas da engenharia, pois quais seriam as consequências de um defeito de software em uma aeronave com 500 pessoas ou na falha de um sistema de controle de tráfego aéreo? Realmente, o software necessita das melhores práticas da engenharia no seu projeto.
+O “produto” software tem que ser projetado aplicando-se as melhores práticas da engenharia, pois quais seriam as consequências de um defeito de software em uma aeronave com 500 pessoas ou na falha de um sistema de controle de tráfego aéreo? Realmente, o software necessita das melhores práticas da engenharia no seu projeto.
 
 Neste contexto, destaca-se a disciplina Engenharia de Software, que trata dos aspectos técnicos que permitem a geração do “produto” software. De uma forma geral, a engenharia, qualquer que seja, necessita de processos. Em função dessa premissa, podemos afirmar que não existe engenharia sem processo.
 
@@ -11,13 +12,9 @@ Uma área de conhecimento importante, aplicada em qualquer engenharia, é o Gere
 
 A Engenharia de Software está alinhada com a área de conhecimento Gerenciamento de Projetos, sendo esta fundamental ao engenheiro de software. Cabe um destaque especial nesse contexto ao Gerenciamento de Riscos, principalmente, na seleção de portfólio de projetos de software.
 
-MÓDULO 1
-Reconhecer os conceitos básicos relacionados com o desenvolvimento de software
 
 
-Fonte: Andrey Suslov/Shutterstock
-SOFTWARE
-Seria possível a sua vida hoje sem o smartphone?
+#### Seria possível a sua vida hoje sem o smartphone?
 
 Acredito que a maioria em uma pesquisa iria responder um enfático “não”!
 
@@ -33,9 +30,11 @@ Destacamos que a bibliografia Pressman (2016) é uma referência mundial nessa �
 
 O conceito de software a seguir define esse importante produto.
 
-SOFTWARE CONSISTE EM:
-(1) INSTRUÇÕES (PROGRAMA DE COMPUTADOR) QUE, QUANDO EXECUTADAS, FORNECEM CARACTERÍSTICAS, FUNÇÕES E DESEMPENHO DESEJADOS; (2) ESTRUTURAS DE DADOS QUE POSSIBILITAM AOS PROGRAMAS MANIPULAR INFORMAÇÕES ADEQUADAMENTE; E (3) INFORMAÇÃO DESCRITIVA, TANTO NA FORMA IMPRESSA QUANTO NA VIRTUAL, DESCREVENDO A OPERAÇÃO E O USO DOS PROGRAMAS.
-(PRESSMAN, 2016).
+SOFTWARE CONSISTE EM:  
+> (1) INSTRUÇÕES (PROGRAMA DE COMPUTADOR) QUE, QUANDO EXECUTADAS, FORNECEM CARACTERÍSTICAS, FUNÇÕES E DESEMPENHO DESEJADOS;  
+> (2) ESTRUTURAS DE DADOS QUE POSSIBILITAM AOS PROGRAMAS MANIPULAR INFORMAÇÕES ADEQUADAMENTE; E   
+> (3) INFORMAÇÃO DESCRITIVA, TANTO NA FORMA IMPRESSA QUANTO NA VIRTUAL, DESCREVENDO A OPERAÇÃO E O USO DOS PROGRAMAS.
+> (PRESSMAN, 2016).
 
 Implicitamente, o software relaciona-se com o hardware. Essa relação gerou a denominada “Crise do Software”, sintetizada pela afirmativa a seguir de Edsger.
 
