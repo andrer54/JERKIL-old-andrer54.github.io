@@ -86,6 +86,38 @@ Se quiser continuar fazendo alterações e as enviando para o GitHub, você prec
 
 -----------
 
-## Agora vamos falar um pouco sobre BRANCHES  
-  
+## Agora vamos falar um pouco sobre BRANCH
+
+Esse comando lista os branches do projeto
+
+    git branch
     
+Esse abaixo, cria um branch
+    
+    git branch umNovoBranch  
+    
+ 
+-----------------------------
+
+agora que vc criou um novo branch, digite novamente
+     
+     git branch
+          *main  
+           umNovoBranch
+ 
+observe que o * informa em  qual branch estamos utilizando(conectados)
+
+
+
+
+    git checkout umNovoBranch
+
+então novamente;
+     
+     git branches
+                main
+               *umNovoBranch
+               
+ 
+agora estamos trabalhando no branch umNovoBranch.
+
