@@ -14,6 +14,5 @@ linkedin_username: andrecosta110 #DO IT YOURSELF
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 #theme: minima
-remote_theme : "manid2/lone-wolf-theme"
-#remote_theme: zivong/jekyll-theme-hydure
+remote_theme: zivong/jekyll-theme-hydure
 #theme: jekyll-theme-minimal
