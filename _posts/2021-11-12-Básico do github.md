@@ -81,6 +81,11 @@ Isso envia seus commits para sua branch “main” no GitHub
 Se quiser continuar fazendo alterações e as enviando para o GitHub, você precisará utilizar os três seguintes comandos:
 
      git add .
-     git commit -m "sua mensagem sensata aqui"
+     git commit -m "sua mensagem aqui"
      git push origin main
 
+-----------
+
+## Agora vamos falar um pouco sobre BRANCHES  
+  
+    
