@@ -121,3 +121,53 @@ então novamente;
  
 agora estamos trabalhando no branch umNovoBranch.
 
+
+----------
+
+## Merge
+ex: o trabalho que fizemos no novo branch está pronto, então agora vou dar umas dicas e ensinar a "mergir" de maneira adequada.
+
+dica 1:
+face o merge do branch principal para o seu novo branch, para garantir que sua feature funcione quando vc mergir no ramo principal
+
+     git checkout nova_feature #volte para o branch da feature
+     git merge main #coloque o main dentro do teu branch novo
+
+teste o app utilizando o seu branch, bem melhor que algo quebrar dentro do 'main'...
+funcionou?
+não -> debbuging
+sim -> faça o merge para o ramo principal
+      
+       git checkout main
+       git merge nova-feature
+       
+--------
+## deletando branch
+em algumas ocasiões a lista de branches pode ser grande, e algumas já inuteis... 
+
+     git branch -d velho_branch
+se mostrar algum erro, é o sistema te avisando que tem algumas modificações no velho-branch que não foram 'mergidas' no original...
+então você pode , entrar no velho-branch, commitar, voltar ao branch atual e mergir... o simplesmente forçar o delete com o comando:
+
+     git branch -D velho_branch # 
+     
+esse -D é um atalho para --delete --force
+
+
+-------------------------
+### Comentários sobre REBASE
+
+    git rebase
+    
+esse comando, em um fluxo normal de git, vai juntar todos branches em um unico branch e uma única linha do tempo. 
+Em algumas situações, tenho achado útil qndo o trabalho realizado por apenas um programador. Quando ele deseja simplificar a linha do tempo das modificações.  
+  
+Este comando não é recomendado para repositorios publicos, open source, com colaboração de terceiros...  
+a menos que vc seja bem experiente (saiba realmente o que está fazendo...rs...)  
+Pois, haverá potencial chances de experimentar uma grande confusão e problemas futuros
+
+
+--------------------
+## Trabalhando com branch no github
+(em construção)
+
