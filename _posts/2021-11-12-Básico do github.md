@@ -169,5 +169,19 @@ Pois, haverá potencial chances de experimentar uma grande confusão e problemas
 
 --------------------
 ## Trabalhando com branch no github
-(em construção)
+1. primeiro vamos obter a lista de de branchs do projeto no github;  
+   o comando fetch do git irá atualizar todos os objetos do origin para local (não atualiza arquivos, somente os objetos):
+      
+      git fetch origin
+      
+agora liste os branches locais e remotos com o comando:
 
+         git branch -a
+ 
+2. Copiando um branch remoto para local
+
+       git checkout -b Nome_Do_Branch_Local origin/Nome_Do_Branch_Remoto
+       
+3. criando um branch remotamente (crie localmente o branch ANTES de enviar para o remoto)
+
+       $ git push -u origin minha-branch-criada
