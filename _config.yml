@@ -13,6 +13,18 @@ linkedin_username: andrecosta110 #DO IT YOURSELF
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: minima
+#theme: minima
+#theme: Architect
+#theme: Cayman
+#theme: Dinky
+theme: Hacker
+#theme: Leap day
+#theme: Minimal
+#theme: Modernist
+#theme: Slate
+#theme: Tactile
+#theme: Theme mechine
+#theme: Merlot
+
 #remote_theme: zivong/jekyll-theme-hydure
 
