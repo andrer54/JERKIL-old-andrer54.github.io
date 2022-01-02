@@ -1,15 +1,13 @@
 <div>
 <img align='center' width=300 src="../media/blog2.09939351.svg"/> 
-etapas essenciais de um processo de desenvolvimento de software
-
+etapas essenciais do processo de desenvolvimento de software
 </div>
-<br>
 
-### o processo de software ###
-é iniciado com especificações e modelos com alto nível de abstração e, <br>
-à medida que o desenvolvimento de software se aproxima da codificação, <br>
-o nível de abstração diminui, de modo que o código representa o nível mais baixo da abstração <br>
-ou de maior detalhamento na especificação do software.
+>  ### o processo de software ###
+>  é iniciado com especificações e modelos com alto nível de abstração e, <br>
+>  à medida que o desenvolvimento de software se aproxima da codificação, <br>
+> o nível de abstração diminui, de modo que o código representa o nível mais baixo da abstração <br>
+> ou de maior detalhamento na especificação do software.
 
 Vamos agora diminuir o nível de abstração do Modelo Genérico apresentado no artigo, ou seja, aumentar os detalhes das atividades do processo de software.
 
