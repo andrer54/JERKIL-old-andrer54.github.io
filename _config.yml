@@ -13,7 +13,7 @@ linkedin_username: andrecosta110 #DO IT YOURSELF
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: Hacker
+theme: hacker
 #theme: minima
 #theme: Architect
 #theme: Cayman
