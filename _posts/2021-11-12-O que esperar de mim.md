@@ -1,5 +1,5 @@
 <div>
-<img align='center' width=600 src="../media/blog1.7ecbb78c.svg"/> 
+<img align='center' width=600 src="https://andrer54.github.io/media/blog1.7ecbb78c.svg"/> 
 </div>
 > Como desenvolvedor quero me superar a cada dia, 
 > ter uma carreira consolidada e 
