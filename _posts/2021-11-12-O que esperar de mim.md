@@ -1,20 +1,16 @@
 <div>
 <img align='center' width=600 src="../media/blog1.7ecbb78c.svg"/> 
 </div>
-> Eu estou desejando(e precisando) que alguém(uma empresa)  
-> acredite no meu trabalho como programador.  
-> Trabalho que venho dedicando esforços ha 2 anos, nos momentos que posso,
-> atravez da graduação, prática, cursos, bootcamps e conteúdos pela internet.
-
-O fato é que como desenvolvedor
-Estou querendo me superar a cada dia, ter uma carreira consolidada e oferecer trabalhos de qualidade para meus empregadores.
+> Como desenvolvedor quero me superar a cada dia, 
+> ter uma carreira consolidada e 
+> oferecer trabalhos de qualidade para meus empregadores.  
   
-  
+----------------
 Sou um profissional que utiliza linux há pelo menos 2 anos,  
 Sempre com alguns terminais abertos, onde faço diversas operações como:  
 rodar comandos git, npm, yarn, criar pastas, rodar executaveis, subir webservers, etc.  
   
-  
+    
 ### Que tem uma boa base sobre:
 * logica de programação.
 * Programação orientada a objeto
@@ -28,6 +24,14 @@ rodar comandos git, npm, yarn, criar pastas, rodar executaveis, subir webservers
 * Estrutura de dados
 * programação funcional
 * ORMs(Hibernate, Entity)  
+
+----------------------
+
+> Eu estou desejando(e precisando) que alguém(uma empresa)  
+> acredite no meu trabalho como programador.  
+> Trabalho que venho dedicando esforços ha 2 anos, nos momentos que posso,
+> atravez da graduação, prática, cursos, bootcamps e conteúdos pela internet.
+
 
 ----------------------
   
