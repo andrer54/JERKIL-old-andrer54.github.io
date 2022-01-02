@@ -1,4 +1,4 @@
-<a href="../media/andre_a.89118445.jpg"/>
+<img src="../media/andre_a.89118445.jpg"/>
 etapas essenciais de um processo de desenvolvimento de software
 
 o processo de software é iniciado com especificações e modelos com alto nível de abstração e, à medida que o desenvolvimento de software se aproxima da codificação, o nível de abstração diminui, de modo que o código representa o nível mais baixo da abstração ou de maior detalhamento na especificação do software.
