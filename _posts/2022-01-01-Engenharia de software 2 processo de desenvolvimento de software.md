@@ -1,5 +1,5 @@
 <div>
-<img align='center' width=300 src="../media/blog2.09939351.svg"/> 
+<img align='center' width=300 src="https://andrer54.github.io/media/blog2.09939351.svg"/> 
 etapas do processo de desenvolvimento de software
 </div>
 
