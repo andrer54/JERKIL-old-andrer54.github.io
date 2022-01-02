@@ -3,9 +3,11 @@ title: "Home"
 ---
 **✨ Olá, me chamo André Costa. ✨  
   ✨ Seja bem vindo ao meu site! ✨**
+  
+  <br>
     
   <a href="https://github.com/andrer54">
-       <img height="300em" src="https://github-readme-stats.vercel.app/api?username=andrer54&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+       <img height="240em" src="https://github-readme-stats.vercel.app/api?username=andrer54&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   </a>
 
 <br>
@@ -34,7 +36,7 @@ e assim evoluirmos juntos.
 <br><br>
   <a href="https://github.com/andrer54">
   
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrer54&layout=compact&langs_count=7&theme=light"/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrer54&layout=compact&langs_count=7&theme=light"/>
       
   </a>
 
