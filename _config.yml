@@ -13,7 +13,7 @@ linkedin_username: andrecosta110 #DO IT YOURSELF
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: hacker
+#theme: hacker
 #theme: minima
 #theme: Architect
 #theme: Cayman
@@ -27,4 +27,7 @@ theme: hacker
 #theme: Merlot
 
 #remote_theme: zivong/jekyll-theme-hydure
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
