@@ -4,8 +4,7 @@ etapas do processo de desenvolvimento de software
 </div>
 
 > PROCESSO DE DESENVOLVIMENTO DE SOFTWARE  
-> O engenheiro de software deverá definir qual o processo de desenvolvimento a ser aplicado em um determinado projeto 
-> Terá que identificar quais as atividades que irão compor o processo e, definir o sequenciamento(fluxo) das referidas atividades.
+> O engenheiro de software deverá definir o processo de desenvolvimento, identificar as atividades do processo e, definir o fluxo atividades.
 
 As atividades típicas que compõem o processo de desenvolvimento de software estão ilustradas na figura 4. O objetivo é ilustrar as atividades mais comuns que compõem os processos de desenvolvimento de software, ou seja, qualquer processo deverá possuir as referidas atividades.
 
