@@ -19,7 +19,7 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 #theme: Cayman
 #theme: Dinky
 #theme: Leap day
-theme: Minimal
+theme: minimal
 #theme: Modernist
 #theme: Slate
 #theme: Tactile
