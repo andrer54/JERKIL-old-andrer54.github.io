@@ -4,12 +4,16 @@
 > Como desenvolvedor quero me superar a cada dia, 
 > ter uma carreira consolidada e 
 > oferecer trabalhos de qualidade para meus empregadores.  
-  
-----------------
+
+<br>
+<br>
+<div>
 Sou um profissional que utiliza linux há pelo menos 2 anos,  
 Sempre com alguns terminais abertos, onde faço diversas operações como:  
 rodar comandos git, npm, yarn, criar pastas, rodar executaveis, subir webservers, etc.  
-  
+</div>
+
+<br>  
     
 ### Que tem uma boa base sobre:
 * logica de programação.
