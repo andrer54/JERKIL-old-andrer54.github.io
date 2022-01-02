@@ -1,3 +1,5 @@
+<img align='center' width=500 src="../media/blog1.7ecbb78c.svg"/> 
+
 > Eu estou desejando(e precisando) que alguém(uma empresa)  
 > acredite no meu trabalho como programador.  
 > Trabalho que venho dedicando esforços ha 2 anos, nos momentos que posso,
