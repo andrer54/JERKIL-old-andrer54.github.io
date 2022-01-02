@@ -1,38 +1,23 @@
+etapas essenciais de um processo de desenvolvimento de software
 
-MÓDULO 2
-Descrever as etapas essenciais de um processo de desenvolvimento de software
+o processo de software é iniciado com especificações e modelos com alto nível de abstração e, à medida que o desenvolvimento de software se aproxima da codificação, o nível de abstração diminui, de modo que o código representa o nível mais baixo da abstração ou de maior detalhamento na especificação do software.
 
-Você sabe por que se aplica de forma intensa o conceito de abstração no desenvolvimento de software?
+Vamos agora diminuir o nível de abstração do Modelo Genérico apresentado no artigo, ou seja, aumentar os detalhes das atividades do processo de software.
 
-Porque o processo de software é iniciado com especificações e modelos com alto nível de abstração e, à medida que o desenvolvimento de software se aproxima da codificação, o nível de abstração diminui, de modo que o código representa o nível mais baixo da abstração ou de maior detalhamento na especificação do software.
 
-Vamos agora diminuir o nível de abstração do Modelo Genérico apresentado no módulo 1 (figura 3), ou seja, aumentar os detalhes das atividades do processo de software.
-
-FIGURA 3
-
-Fonte: O autor
-Figura 3 - Metodologia do Processo.
 PROCESSO DE DESENVOLVIMENTO DE SOFTWARE
 O engenheiro de software deverá definir qual o processo de desenvolvimento a ser aplicado em um determinado projeto de software como especificação de requisito não funcional. Inicialmente, terá que identificar quais as atividades que irão compor o desejado processo e, em seguida, definir o sequenciamento das referidas atividades, ou seja, o fluxo do processo.
 
 As atividades típicas que compõem o processo de desenvolvimento de software estão ilustradas na figura 4. O objetivo é ilustrar as atividades mais comuns que compõem os processos de desenvolvimento de software, ou seja, qualquer processo deverá possuir as referidas atividades.
 
 
-Fonte: O autor
-Figura 4 - Atividades típicas de um processo de desenvolvimento de software.
+### Vamos agora descrever cada uma das atividades comumente previstas em um processo de desenvolvimento de software.
 
-Assista agora ao vídeo sobre Atividades típicas de um Processo de Desenvolvimento de Software.
-
-
-Vamos agora descrever cada uma das atividades comumente previstas em um processo de desenvolvimento de software.
-
-ETAPA DE LEVANTAMENTO DE REQUISITOS
+#### ETAPA DE LEVANTAMENTO DE REQUISITOS
 A primeira etapa, também denominada de Elicitação de Requisitos, inclui o primeiro desafio do engenheiro de software, entender o problema!
 
 Imagine você como engenheiro de software, projetando um software para o mercado financeiro! O desafio impressiona? Talvez você concorde comigo – “sim”!
 
-
-Fonte: puhhha/Shutterstock
 Realmente, o desafio é grande, pois o referido engenheiro, normalmente, não entende do ambiente de negócio que o software será implementado. Portanto, terá que se comunicar com diferentes usuários que, muitas vezes, entendem de somente parte do problema; para tal, deverá utilizar diferentes técnicas de levantamento de requisitos, tais como, entrevistas, questionários, leituras de documentos, etnografia e outros.
 
 Nesta etapa, são identificados os requisitos que serão implementados no software projetado. O grande desafio é que o engenheiro de software tenha o mesmo entendimento do negócio que os usuários.
@@ -71,8 +56,9 @@ Ainda no contexto da construção de uma casa, quais seriam os requisitos inicia
 
 Poderíamos imaginar uma descrição especificando que você quer uma casa com uma sala, três quartos, uma suíte, cozinha, piscina, churrasqueira e com aproximadamente 120 m2. Textualmente, temos um documento de requisitos.
 
-
-Fonte: Kanghophoto/Shutterstock
+   
+    
+    
 E AGORA, O QUE FAZER COM ESSE DOCUMENTO?
 Podemos contratar um arquiteto para desenhar uma planta baixa que atenda aos requisitos descritos. Essa planta é o que chamamos de modelo, que representa parte da solução do problema “construir a sua casa”.
 
@@ -81,8 +67,8 @@ A engenharia tem como boa prática a construção de modelos que permitem uma me
 Na etapa de Análise, as especificações contidas no Documento de Requisitos são convertidas em modelos de análise que incluem artefatos gráficos e textuais. Como exemplo, os requisitos funcionais evoluem para uma especificação gráfica denominada Modelo de Casos de Uso, sendo este composto por diagramas de caso de uso, artefatos gráficos, e descrições de caso de uso, artefatos textuais. Importante destacar que uma descrição de caso de uso permite identificar os diferentes cenários de utilização do referido caso. A figura 5 ilustra um diagrama de casos de uso.
 
 
-Fonte: O autor
-Figura 5 - Exemplo de Diagrama de Casos de Uso.
+---------------------
+
 Nesta etapa, o engenheiro de software aplica um alto nível de abstração de modo a definir “O QUE” o sistema deverá implementar, ou seja, nenhum tipo de restrição tecnológica é considerado, e.g., como ocorre a comunicação entre os objetos que permitirão implementar o caso de uso “Agendar consulta”.
 
 A entrega da referida etapa inclui os modelos denominados “modelos de análise” com alto nível de abstração.
@@ -98,8 +84,8 @@ A verificação é uma atividade técnica do engenheiro de software que permite 
 A figura 6 ilustra um diagrama de classes, sendo este um artefato do Modelo de Classes que permite identificar os objetos do domínio do problema que serão utilizados na implementação dos casos de uso. Cabe ao engenheiro de software, verificar a correção do modelo e a consistência com o Modelo de Casos de Uso.
 
 
-Fonte: Wikipedia
-Figura 6 - Exemplo de Diagrama de Classes.
+---------------------------------
+
 ETAPA DE PROJETO
 A fase de Projeto permite os refinamentos dos modelos gerados na análise, bem como a construção de novos modelos gerando especificações com menor nível de abstração e que permitam definir “COMO” implementar a solução especificada, ou seja, ao final desta etapa, o nível de detalhamento da especificação permite a implementação da solução.
 
@@ -112,15 +98,16 @@ Desenho dos componentes do sistema e dos nós computacionais necessários para a
 ETAPA DE IMPLEMENTAÇÃO
 Nesta etapa, ocorre a codificação do software de acordo com os requisitos definidos na etapa de Projeto. Os padrões de projeto devem ser considerados por representarem melhores práticas de implementação do software.
 
+-----------------------------
 
-Fonte: whiteMocca/Shutterstock
 ETAPA DE TESTES
 Nesta etapa, são aplicados os denominados testes de software ou testes de validação que permitem verificar se o produto certo está sendo construído.
 
 Os testes validam os componentes individualmente bem como a integração entre eles. Em geral, esta etapa inicia com os testes unitários, em seguida, os testes de integração e os testes de aceitação ou homologação. Ao final dessa sequência, ocorre a migração do sistema para o ambiente de produção.
 
 
-Fonte: Gorodenkoff/Shutterstock
+-----------------------------
+
 RECOMENDAÇÃO
 Nesta etapa, é fundamental a geração de um Plano de Teste a partir dos casos de testes, que, por sua vez, estão vinculados aos cenários descritos na descrição de cada caso de uso.
 
@@ -138,32 +125,27 @@ FLUXO DE PROCESSO LINEAR
 A figura 7 ilustra o denominado Fluxo de Processo Linear, onde as atividades são executadas em sequência, de modo que cada atividade é realizada por completo uma única vez.
 
 
-Fonte: O autor
-Figura 7 - Fluxo de Processo Linear.
+
 FLUXO DE PROCESSO ITERATIVO
 A figura 8 ilustra o denominado Fluxo de Processo Iterativo, onde uma atividade ou um conjunto de atividades podem ser repetidas antes de prosseguir para a seguinte.
 
 
-Fonte: O autor
-Figura 8 - Fluxo de Processo Iterativo.
+
 FLUXO DE PROCESSO EVOLUCIONÁRIO
 A figura 9 ilustra o denominado Fluxo de Processo Evolucionário, onde o sequenciamento de cada fluxo inclui todas as atividades, sendo que cada iteração completa gera uma nova versão do software, ou seja, o software agrega valor às suas funcionalidades a cada ciclo completo.
 
 
-Fonte: O autor
-Figura 9 - Fluxo de Processo Evolucionário.
+
 FLUXO DE PROCESSO PARALELO
 A figura 10 ilustra o denominado Fluxo de Processo Paralelo, que permite a execução de uma ou mais atividades em paralelo.
 
 
-Fonte: O autor
-Figura 10 - Fluxo de Processo Paralelo.
+
 FLUXO DE PROCESSO PARALELO
 A figura 11 ilustra o Modelo de Ciclo de Vida Iterativo e Incremental, onde cada iteração inclui todas as atividades e ocorre o versionamento do produto software gerado. Este modelo corresponde ao Fluxo de Processo Evolucionário. A cada novo ciclo, um subconjunto de requisitos é considerado.
 
+-----------------------
 
-Fonte: O autor
-Figura 11 - Modelo de Ciclo de Vida Iterativo e Incremental.
 RESUMINDO
 Neste módulo, podemos avaliar a importância do processo de desenvolvimento de software. Cabe destacar que processo é a principal camada da Engenharia de Software.
 
