@@ -1,6 +1,6 @@
 <div>
 <img align='center' width=300 src="../media/blog2.09939351.svg"/> 
-etapas essenciais do processo de desenvolvimento de software
+etapas do processo de desenvolvimento de software
 </div>
 
 >  ### o processo de software ###
