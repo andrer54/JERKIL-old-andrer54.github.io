@@ -5,21 +5,16 @@
 </div>
   
    
-> A importância do software é facilmente perceptível em função dos inúmeros serviços digitais disponíveis na nossa Sociedade. 
-> O software também está presente em sistemas de controle de veículos, aviões, refinarias entre outros.
+> O engenheiro de software deverá definir o processo de desenvolvimento,  
+>  identificar as atividades do processo e, definir o fluxo das atividades.
 
 
   
     
     
 
-### No PROCESSO DE DESENVOLVIMENTO DE SOFTWARE  ###
-O engenheiro de software deverá definir o processo de desenvolvimento, identificar as atividades do processo e, definir o fluxo atividades.
 
-
-
-
-### atividades comumente em um processo de desenvolvimento de software.
+### atividades comumente em um processo de desenvolvimento de software. ###
 
 #### ETAPA DE LEVANTAMENTO DE REQUISITOS ####
 A primeira etapa, também denominada de Elicitação de Requisitos, inclui o primeiro desafio do engenheiro de software, entender o problema!
