@@ -1,8 +1,23 @@
 
+  
 <div>
-<img align="center" width="300" src="https://pngimg.com/uploads/github/github_PNG15.png" >
- -  TUTORIAL PARA INSTALAR GIT E PUBLICAR NO GITHUB UM PROJETO;  
+<img align="center" width="300" src="https://pngimg.com/uploads/github/github_PNG15.png" />
+ Tutorial básico para github!
 </div>
+  
+   
+> Git e github ferramenta indispensável para qualquer dev.  
+> Sou fã de git!
+
+
+
+  
+    
+      
+
+
+
+
 
 Para checar se o Git já está instalado:
 
@@ -185,3 +200,10 @@ agora liste os branches locais e remotos com o comando:
 3. criando um branch remotamente (crie localmente o branch ANTES de enviar para o remoto)
 
        $ git push -u origin minha-branch-criada
+
+
+
+
+<div>
+<img align="center" src="https://pngimg.com/uploads/github/github_PNG15.png" >
+</div>
