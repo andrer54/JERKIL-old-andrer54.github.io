@@ -1,7 +1,7 @@
 
 <div>
-<img align="center" width="300" src="https://www.rotamaxima.com.br/wp-content/uploads/2018/11/principal.png" />
- Conceitos básicos da Engenharia de software.  
+<img align="center" width="300" src="https://andrer54.github.io/media/blog2.09939351.svg" />
+ Processo de desenvolvimento de software.  
 </div>
   
    
@@ -9,20 +9,19 @@
 > O software também está presente em sistemas de controle de veículos, aviões, refinarias entre outros.
 
 
-<div>
-<img align='center' width=300 src="https://andrer54.github.io/media/blog2.09939351.svg"/> 
-etapas do processo de desenvolvimento de software
-</div>
+  
+    
+    
 
-> PROCESSO DE DESENVOLVIMENTO DE SOFTWARE  
-> O engenheiro de software deverá definir o processo de desenvolvimento, identificar as atividades do processo e, definir o fluxo atividades.
-
-As atividades típicas que compõem o processo de desenvolvimento de software estão ilustradas na figura 4. O objetivo é ilustrar as atividades mais comuns que compõem os processos de desenvolvimento de software, ou seja, qualquer processo deverá possuir as referidas atividades.
+### No PROCESSO DE DESENVOLVIMENTO DE SOFTWARE  ###
+O engenheiro de software deverá definir o processo de desenvolvimento, identificar as atividades do processo e, definir o fluxo atividades.
 
 
-### Vamos agora descrever cada uma das atividades comumente previstas em um processo de desenvolvimento de software.
 
-#### ETAPA DE LEVANTAMENTO DE REQUISITOS
+
+### atividades comumente em um processo de desenvolvimento de software.
+
+#### ETAPA DE LEVANTAMENTO DE REQUISITOS ####
 A primeira etapa, também denominada de Elicitação de Requisitos, inclui o primeiro desafio do engenheiro de software, entender o problema!
 
 Imagine você como engenheiro de software, projetando um software para o mercado financeiro! O desafio impressiona? Talvez você concorde comigo – “sim”!
